@@ -1,0 +1,13 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+.red{
+    background-color: red;
+    color: white;
+}
+.yellow{
+    background-color: yellow;
+    color: black;
+    font-weight: 900;
+}
